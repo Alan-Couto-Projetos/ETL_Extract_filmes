@@ -1,0 +1,8 @@
+
+
+version: 2
+
+models:
+  - name: public  # Nome do esquema
+    tables:
+      - name: tabela_filmes  # Nome da tabela

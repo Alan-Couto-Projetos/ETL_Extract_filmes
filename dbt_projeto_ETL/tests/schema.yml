@@ -1,0 +1,18 @@
+  version: 2
+
+models:
+    - name: tabela_filmes
+      description: "Teste da tabela com os filmes e das colunas da tabela"
+
+      columns:  
+        - name: id
+          tests:  
+            - not_null
+            - unique
+            - valida_tabela
+
+        - name: title
+          tests:  
+            - not_null
+            - unique
+        
