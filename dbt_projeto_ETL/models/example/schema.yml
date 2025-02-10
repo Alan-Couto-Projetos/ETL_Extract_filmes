@@ -3,6 +3,6 @@
 version: 2
 
 models:
-  - name: public  # Nome do esquema
+  - name: public  
     tables:
-      - name: tabela_filmes  # Nome da tabela
+      - name: tabela_filmes  
