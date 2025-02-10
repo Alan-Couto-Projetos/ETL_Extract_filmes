@@ -1,5 +1,5 @@
-  version: 2
-#model
+version: 2
+
 models:
     - name: tabela_filmes
       description: "Teste da tabela com os filmes e das colunas da tabela"

@@ -1,3 +1,4 @@
+#teste
 {% test valida_tabela(model, column_name) %}
 
     {{ config(severity = 'warn') }}
